@@ -111,5 +111,4 @@ cd sorting-algorithms
 
 bash
 python test1.py
-Автор
-Заздравных Вадим
+
